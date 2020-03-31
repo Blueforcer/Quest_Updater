@@ -1,5 +1,5 @@
 # Quest_Updater
-This is a automatic firmware installer for Oculus Quest
+This is a automatic firmware installer for Oculus Quest (Windows only)
 
 1. Download this repo and unzip it on your Computer
 2. [Download the Firmware (v14 and/or v15) from here](https://url.blueforcer.de/quest) and copy into the same folder.
