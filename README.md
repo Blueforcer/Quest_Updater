@@ -1,6 +1,5 @@
 # Quest_Updater
-This is a automatic firmware installer for Oculus Quest (Windows only)
-You can use this to Updating or Downgrading  
+This is a automatic firmware installer for Oculus Quest (Windows only, scroll down for other platforms)
   
 **This is not officially supported by Oculus and should only be done by advanced users. This could potentially cause issues.**
 
