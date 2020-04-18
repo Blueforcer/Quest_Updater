@@ -12,6 +12,7 @@ You can use this to Updating or Downgrading
 - Firmware V15 is a partial firmware, you must be on V14 to update to V15.
 - Firmware V16 is a partial firmware, you must be on V15 to update to V16.
   
+## Howto  
 1. Download this repo and unzip it on your Computer
 2. Download Firmware from official FB CDN, copy the downloaded zip into the same folder as this Tool and rename it to **update.zip**
      
