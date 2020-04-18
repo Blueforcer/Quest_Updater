@@ -14,7 +14,7 @@ You can use this to Updating or Downgrading
   
 ## Howto  
 1. Download this repo and unzip it on your Computer
-2. Download Firmware from official FB CDN, copy the downloaded zip into the same folder as this Tool and rename it to **update.zip**
+2. Download the desired firmware from official FB CDN, copy the downloaded zip into the same folder as this Tool and rename it to **update.zip**
      
    - [v11](https://scontent.xx.fbcdn.net/v/t39.10537-6/10000000_415959559327206_1506267613645242368_n.zip?_nc_cat=103&_nc_ohc=CGQmj7vSxqUAQnAPVDWYgb5JwNVe1U7TKezSPdESRH5V-L6lfrhDdaf7A&_nc_ad=z-m&_nc_cid=0&_nc_zor=4&_nc_ht=scontent.xx&oh=6b119b782e12cee566e7314b20b4516f&oe=5E85B672)
    - [v12](https://scontent.xx.fbcdn.net/v/t39.10537-6/10000000_1103475330002785_5782695361189511168_n.zip?_nc_cat=106&_nc_ohc=DRHo9XY3AYsAQlr4xOWJFC-XkBlvjib7huXdDxrADwnjjjNmfjU2aM1pw&_nc_ad=z-m&_nc_cid=0&_nc_zor=4&_nc_ht=scontent.xx&oh=3c330b9673f5083598568a0163457e1a&oe=5E77FAAF)
