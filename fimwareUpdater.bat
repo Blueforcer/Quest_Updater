@@ -35,7 +35,7 @@ fastboot oem reboot-sideload
 timeout 15 > NUL
 ECHO %Green%Installing System Udpate ...
 ECHO %White%
-adb sideload %fw%
+adb sideload update.zip
 ECHO %Green%Finish. You can disconnect your Quest from the PC. Have Fun!
 ECHO %White%
 pause
