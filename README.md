@@ -10,7 +10,7 @@ This is a automatic firmware installer for Oculus Quest (Windows only, scroll do
 - Firmware V14 is a partial firmware, you must be on V13 to update to V14.
 - Firmware V15 is a full firmware. 
 - Firmware V16 is a full firmware. 
-- Firmware V16 Hotfix is a partial, you must be on 602380.20880.0 to update to this.
+- Firmware V16 Hotfix is a partial, you must be on v16 to update to this.
   
 ## Howto  
 1. Download this repo and unzip it on your Computer
