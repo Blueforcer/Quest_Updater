@@ -31,9 +31,10 @@ This is a automatic firmware installer for Oculus Quest (Windows only, scroll do
 7. Have Fun!
 
 ## Troubleshooting
-Ff something fails during the installation, dont panic. Just hold your Powerkey for around 20s until your Quest reboots
+If something fails during the installation, dont panic. Just hold your Powerkey for around 20s until your Quest reboots
 
 
+## MacOS & Linux
 To update your Quest from other Platforms like **Mac or Linux** you can do it manually after step 4 via following ADB commands:
  - adb devices
  - adb reboot bootloader
