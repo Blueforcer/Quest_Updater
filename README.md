@@ -12,6 +12,7 @@ This is a automatic firmware installer for Oculus Quest (Windows only, scroll do
 - Firmware V16 is a full firmware. 
 - Firmware V16 Hotfix is a partial, you must be on v16 to update to this.
 - Firmware V17 is a partial, you must be on Firmware V16 Hotfix  
+- Firmware v18 is a partial, you must be on 655140.23520.0 before updating.
 ## Howto  
 1. Download this repo and unzip it on your Computer
 2. Download the desired firmware from official FB CDN, copy the downloaded zip into the same folder as this Tool and rename it to **update.zip**
@@ -23,7 +24,8 @@ This is a automatic firmware installer for Oculus Quest (Windows only, scroll do
    - [v15](https://scontent-iad3-1.xx.fbcdn.net/v/t39.10537-6/10000000_1352084348312177_1106037482689921024_n.zip?_nc_cat=100&_nc_sid=379304&_nc_oc=AQn4JR1GvYOioIfeMCuIkoWo-XfnLu__gaTIybSTKdZCxq1n12CrR-KWyqRVuwr9-8o&_nc_ad=z-m&_nc_cid=0&_nc_zor=4&_nc_ht=scontent-iad3-1.xx&oh=94a4397164f1f3009b5a57e43f667520&oe=5EC0355C)
    - [v16](https://scontent-frt3-1.xx.fbcdn.net/v/t39.10537-6/10000000_852799225219331_767972978959843328_n.zip?_nc_cat=108&_nc_sid=379304&_nc_ohc=i9h8ZVIwi0oAX8HVGdA&_nc_ad=z-m&_nc_cid=0&_nc_zor=4&_nc_ht=scontent-frt3-1.xx&oh=36bfb5abbb03eae6690d28b9472e774b&oe=5EBE5B7A)
    - [v16 Hotfix](https://scontent-ber1-1.xx.fbcdn.net/v/t39.10537-6/10000000_248986626222481_933087769679364096_n.zip?_nc_cat=110&_nc_sid=379304&_nc_oc=AQkjUPJjHaPBWbdMNhIrxG3PIVy6l0Bb8Qj4wBGm_K6qSAWxZ43YIjHF9CTQ-Cip6rvoKgMDcPaE_PhOADps-tq0&_nc_ad=z-m&_nc_cid=0&_nc_zor=4&_nc_ht=scontent-ber1-1.xx&oh=bc6a96c677c57d159b27fb72a806d7b5&oe=5ECE8285) 
-   - [v17](https://scontent-bos3-1.xx.fbcdn.net/v/t39.10537-6/10000000_175990210399553_6796040478899830784_n.zip?_nc_cat=102&_nc_sid=379304&_nc_ohc=2zCn90cX1cYAX9dNWAy&_nc_ad=z-m&_nc_cid=0&_nc_zor=4&_nc_ht=scontent-bos3-1.xx&oh=f9d816b75542b0582e6ec3b0cdeb2b79&oe=5EE8238B) 
+   - [v17](https://scontent-bos3-1.xx.fbcdn.net/v/t39.10537-6/10000000_175990210399553_6796040478899830784_n.zip?_nc_cat=102&_nc_sid=379304&_nc_ohc=2zCn90cX1cYAX9dNWAy&_nc_ad=z-m&_nc_cid=0&_nc_zor=4&_nc_ht=scontent-bos3-1.xx&oh=f9d816b75542b0582e6ec3b0cdeb2b79&oe=5EE8238B)
+   - [v18](https://scontent-amt2-1.xx.fbcdn.net/v/t39.10537-6/10000000_2197128797100290_6242814884954441097_n.zip?_nc_cat=105&_nc_sid=379304&_nc_ohc=7lOcsOQCeYgAX-BlGP1&_nc_ad=z-m&_nc_cid=0&_nc_zor=4&_nc_ht=scontent-amt2-1.xx&oh=c2cc2b5e3eb92ef94e208e88f56dea54&oe=5F20F849)
 3. Turn you Quest on and make sure its completely booted and you are in your Home Enviroment.    
 4. Enable Developer Mode
 5. Connect your Oculus Quest to your PC and execute fimwareUpdater.bat
