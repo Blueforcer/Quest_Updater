@@ -14,14 +14,12 @@ This is a automatic firmware installer for Oculus Quest (Windows only, scroll do
 - Firmware V17 is a partial, you must be on Firmware V16 Hotfix  
 - Firmware v18 is a partial, you must be on 655140.23520.0 before updating.
 - Firmware V19 is a partial firmware, you must be on V18 to update to V19.
+- Firmware V20 is a partial firmware, you must be on V19 to update to V20.
 
 ## Howto  
 1. Download this repo and unzip it on your Computer
-2. Download the desired firmware from official FB CDN, copy the downloaded zip into the same folder as this Tool and rename it to **update.zip**
-
-   - [v18](https://scontent-amt2-1.xx.fbcdn.net/v/t39.10537-6/10000000_2197128797100290_6242814884954441097_n.zip?_nc_cat=105&_nc_sid=379304&_nc_ohc=7lOcsOQCeYgAX-BlGP1&_nc_ad=z-m&_nc_cid=0&_nc_zor=4&_nc_ht=scontent-amt2-1.xx&oh=c2cc2b5e3eb92ef94e208e88f56dea54&oe=5F20F849)
-   - [v19](https://scontent-lax3-1.xx.fbcdn.net/v/t39.10537-6/10000000_560312348182656_5892337682072346428_n.zip?_nc_cat=102&_nc_sid=053bd2&_nc_ohc=R1A8FzcnyLkAX9TaADB&_nc_ad=z-m&_nc_cid=0&_nc_zor=4&_nc_ht=scontent-lax3-1.xx&oh=a4c62c5eae7e8ca64f6023ae14f86400&oe=5F3FA988)
-
+2. Download the latest firmware from official FB CDN, copy the downloaded zip into the same folder as this Tool and rename it to **update.zip**
+   - [v20](https://scontent-ams4-1.xx.fbcdn.net/v/t39.10537-6/10000000_733778840807572_3134597064107830720_n.zip?_nc_cat=100&_nc_sid=053bd2&_nc_ohc=W6or98LCGVcAX9fLfeB&_nc_ad=z-m&_nc_cid=0&_nc_zor=4&_nc_ht=scontent-ams4-1.xx&oh=a6de85aa40bf4b83b392099f2b7fb87a&oe=5F64DC0E)
 3. Turn you Quest on and make sure its completely booted and you are in your Home Enviroment.    
 4. Enable Developer Mode
 5. Connect your Oculus Quest to your PC and execute fimwareUpdater.bat
